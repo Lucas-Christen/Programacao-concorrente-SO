@@ -1,0 +1,3 @@
+Mudar a metrica para comparar os valores etc bem detalhados.
+Preparar o codigo para mudar o emoji dos chefs para um gif quando o chef estiver acionado cozinhando.
+Fazer mais exemplos alem de cozinhar
